@@ -1,5 +1,5 @@
-# tsu-side-quests
+# side-quests
 
-## Coursera
+### Coursera
 
 - [Kotlin Bootcamp](coursera-kotlin-bootcamp)
